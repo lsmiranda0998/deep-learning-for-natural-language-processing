@@ -1,0 +1,7 @@
+Algumas informações sobre o TP1. O  aluno pode escolher a implementacao e o corpus a serem utilizados, apenas como sugestao apontamos o repositorio: https://github.com/nicholas-leonard/word2vec
+
+No mesmo repositorio voce encontra os dados de analogia necessarios para avaliacao do seu modelo de linguagem: https://github.com/nicholas-leonard/word2vec/blob/master/questions-words.txt 
+
+Tambem como sugestao, o corpus: http://mattmahoney.net/dc/text8.zip
+
+Lembrando que o objetivo eh produzir e avaliar um modelo de linguagem neural. A avaliacao consistem em testar e reportar resultados obtidos com a variação de um conjunto de hiperparametros. A tarefa consiste em realizar analogias (tal como visto em aula) e comparar a distancia entre a palavra esperada/correta e o resultado da manipulacao geometrica (i.e., analogia).
